@@ -1,0 +1,1 @@
+so given formula E = mc**2(1+φ) we have that φ factor is some sort of an imaginary factor and we try to count Energy. In this rather playful framework we can see that when we give φ negative values E Energy takes negative values too. it's mostly a playful idea. 
